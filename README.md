@@ -34,7 +34,7 @@ A simple RESTful API built with **Node.js**, **Express**, and **MongoDB** to man
 
 4. Start the server:
    ```bash
-   node app.js
+   node server.js
    or
    npm start from nodemon installed as a dev dependency(it is already configured)
    ```
@@ -75,7 +75,8 @@ module.exports = mongoose.model('Book', bookSchema);
 ## 📬 Contact
 
 For any questions or feedback, feel free to reach out.
-
+gitHub:blessedwinner66
+linkedIn:IMPANO Blessed Winner
 ---
 
 > Made with ❤️ by IMPANO Blessed Winner
